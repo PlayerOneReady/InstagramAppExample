@@ -1,7 +1,7 @@
 Instagram Example
 ===========
 
-Discussion 1:
+Assignment 0
+Tyler D. Lopez, A10232156
+COGS 121 SP14
 
-Instagram example for COGS 121
-Every commit will provide a step by step introduction to creating a web application overview.
